@@ -24,4 +24,5 @@ public class BubbleSortExample {
         bubbleSort(myList);
         System.out.println("Sorted array:   " + Arrays.toString(myList));
     }
+
 }
